@@ -1,0 +1,66 @@
+body {
+    font-family: "Roboto Mono", monospace;
+    color: white;
+    background-color: #000000;
+    margin: 15px ;
+    width: 100%;
+    border: 1px dashed black;
+    overflow: hidden;
+  }
+
+  p {
+    font-size: 20px;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  div.Sistema {
+    display: flex;
+    align-items: center;
+    border: 1px solid black;
+    margin: 30px 10px 10px 10px;
+    width: 100%;
+    
+  }
+
+  img#p1 {
+    margin-left: -350px;
+    margin-right: -100px;
+    width: 500px;
+  }
+
+  img#p2 {
+    margin-left: 70px;
+    width: 70px;
+  }
+
+  img#p3 {
+    width: 90px;
+  }
+  img#p4 {
+    margin-left: 15px;
+    width: 100px;
+  }
+
+  img#p5 {
+    margin-left: 15px;
+    width: 75px;
+  }
+  
+  img#p6 {
+    margin-left: 15px;
+    width:200px ;
+  }
+
+  img#p7 {
+    margin-left: 10px;
+    width: 250px;
+  } 
+  img#p8 {
+    width: 90px;
+  }
+  
+  img#p9 {
+    width: 120px;
+  }
+
