@@ -1,6 +1,4 @@
-var valorEmDolar = 30;
-var cotacaoDoDolar = 5.32;
+var nome = prompt ('Olá! Seja bem vindo ao Sistema solar. Qual seu nome?')
 
-var valorEmReal = valorEmDolar * cotacaoDoDolar;
+alert ('Selecione um planeta para saber a distancia dele para o Sol')
 
-alert(valorEmReal);
